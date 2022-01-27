@@ -1,5 +1,5 @@
-import { Center, Heading } from "@chakra-ui/react";
-import Layout from "../components/layout/Layout";
+import { Center, Heading } from '@chakra-ui/react';
+import Layout from '../components/Layout';
 
 export default function Home() {
   return (

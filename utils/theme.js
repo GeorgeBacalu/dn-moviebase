@@ -1,11 +1,13 @@
-import { extendTheme } from "@chakra-ui/react";
+import { extendTheme } from '@chakra-ui/react';
 
-const config = { initialColorMode: "dark" };
+const config = {
+  initialColorMode: 'dark',
+};
 
 const components = {
   Container: {
     baseStyle: {
-      maxW: "container.xl",
+      maxW: 'container.xl',
     },
   },
 };
